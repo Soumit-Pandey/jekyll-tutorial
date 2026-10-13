@@ -4,7 +4,7 @@ title: "Soumit Pandey"
 name: "Soumit Pandey's Portfolio in Jekyll"
 email: 
 url: "https://Soumit-Pandey.github.io"
-baseurl: "/jekyll-resume-template"
+baseurl: "/jekyll-tutorial"
 repository: "Soumit-Pandey/jekyll-tutorial"
 header:
   image: /assets/images/banner-husky.jpg
