@@ -1,25 +1,23 @@
 ## Prompt
-> Write a short post about something you did this week: what happened, what you learned, and what you'd do next time.
+> 
+> 
 
 ---
 
 ## What I did
 
-This week I led the Huskies out of the tunnel at **Huskie Stadium** for the home opener. It was my first game of the season, so I spent the week rehearsing a new entrance with the NIU cheer team.
+Had healthy food
 
 ## What I learned
 
-- **Practice in costume.** Moves that are easy in a T-shirt are much harder with a giant husky head on.
-- **Plan for the weather.** It was 85°F on the field, so water breaks between quarters were a must.
-- **The crowd follows your energy.** When I got the student section going, the rest of the stadium joined in.
+- **Did fairly well on exams** Exam was on Econometrics and Math Econ. 
 
 > "Spirit is contagious. Someone just has to start it." — a wise cheer coach
 
 ## What I'd do next time
 
-1. Rehearse on the actual field, not just in the gym
-2. Coordinate the T-shirt cannon timing with the band
-3. Bring a spare pair of gloves
+1. Plan to increase study hours 3x
+2. Plan to visit Chicago
 
 Here's a photo from campus:
 
